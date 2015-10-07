@@ -1,6 +1,0 @@
-s1   stefan
-s2   stepan
-c0   christien
-s2   stepan
-s3   stefam
-c1   christian
